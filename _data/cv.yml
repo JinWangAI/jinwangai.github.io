@@ -62,19 +62,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: year_test1
-      items: 
+    - year: year test 1
+      items:
         - items1
         - items2
-    - year: year_test2
-      items: 
+    - year: year test 2
+      items:
         - items1
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.
