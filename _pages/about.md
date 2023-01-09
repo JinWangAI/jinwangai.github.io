@@ -19,4 +19,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a Ph.D. student from [Dr. Haipeng Yu's lab](https://animal.ifas.ufl.edu/people/haipeng-yu/) in the Department of Animal Sciences at [the University of Florida](https://www.ufl.edu/).
 
-My research interest focuses on using computer vision and machine learning to collect and incorporate high-throughput animal phenomics data to improve animal agriculture.
+My research interest focuses on using computer vision and machine learning to collect and incorporate high-throughput animal phenomics data to improve animal agriculture. 
