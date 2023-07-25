@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 description: 
 nav: true
-nav_order: 1
-display_categories: [Computer Vision]
+nav_order: 2
+display_categories: [work, fun]
 horizontal: false
 ---
 

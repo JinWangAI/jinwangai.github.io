@@ -3,9 +3,9 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Publications by categories in reversed chronological order.
-# years: [1967, 1956, 1950, 1935, 1905]       # open
+years: [2023]       # open
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
