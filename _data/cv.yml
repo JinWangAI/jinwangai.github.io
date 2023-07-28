@@ -33,23 +33,19 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Research intern with Dr.Md Jahidul Islam.
+    - title: Research intern with Dr.Haipeng Yu.
       institution: University of Florida, Gainesville, Florida USA
-      year: 2021.02 - 2021.05
+      year: 2022.10 - 2022.12
       description:
-        - title: Re-engraved a project related to an unsupervised salient object detection program with high accuracy.
-          contents:
-            - Learned to use the software Autodesk to make a model for underwater surface vehicles.
-            - Learned basic knowledge about salient object detection and underwater robots.
+        - Learned to use image annotation tool labelme to label images.
+        - Learned algorithm Mask RCNN model to do object segmentation in images.
 
-    - title: Research intern with Dr.Ruogu Fang.
+    - title: Graduate Research Assistant with Dr.Haipeng Yu.
       institution: University of Florida, Gainesville, Florida USA
-      year: 2021.02 - 2021.06
+      year: 2023.01 - now
       description:
-        - Completed the Coursera machine learning courses.
-        - title: Finished MONAI tutorials and attended MONAIBootcamp2021 in Project MONAI.
-          contents:
-            - Learned some basic artificial intelligence knowledge and trained an artificial intelligence model following the tutorials.
+        - Computer Vision
+        - Precision Livestock Farming
 
 
 # - title: Open Source Projects
