@@ -5,4 +5,4 @@ date: 2023-07-05 13:15:00-0400
 inline: true
 ---
 
-<strong>New preprint</strong>. Jin Wang, Yu Hu, Lirong Xiang, Gota Morota, Samantha A. Brooks, Carissa L. Wickens, Emily K. Miller-Cushon and Haipeng Yu. Technical note: ShinyAnimalCV: open-source cloud-based web application for object detection, segmentation, and three-dimensional visualization of animals using computer vision. [doi: arXiv:2307.14487](https://arxiv.org/abs/2307.14487)
+<strong>New preprint</strong>. Ye Bi, Leticia M. Campos, **Jin Wang**, Haipeng Yu, Mark D. Hanigan, and Gota Morota. Depth video data-enabled predictions of longitudinal dairy cow body weight using thresholding and Mask R-CNN algorithms. [doi: arXiv:2307.01383](https://arxiv.org/abs/2307.01383)
