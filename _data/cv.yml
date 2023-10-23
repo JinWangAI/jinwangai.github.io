@@ -33,19 +33,19 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Research intern with Dr.Haipeng Yu.
-      institution: University of Florida, Gainesville, Florida USA
-      year: 2022.10 - 2022.12
-      description:
-        - Learned to use image annotation tool labelme to label images.
-        - Learned algorithm Mask RCNN model to do object segmentation in images.
-
     - title: Graduate Research Assistant with Dr.Haipeng Yu.
       institution: University of Florida, Gainesville, Florida USA
       year: 2023.01 - now
       description:
         - Computer Vision
         - Precision Livestock Farming
+
+    - title: Research intern with Dr.Haipeng Yu.
+      institution: University of Florida, Gainesville, Florida USA
+      year: 2022.10 - 2022.12
+      description:
+        - Learned to use image annotation tool labelme to label images.
+        - Learned algorithm Mask RCNN model to do object segmentation in images.
 
 
 # - title: Open Source Projects
