@@ -54,31 +54,3 @@
 #     - title: <a href="https://github.com/alshedivat/al-folio">Jin Wang</a>
 #       year: 2023-now
 #       description: description_test1
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: year_test1
-      items: 
-        - items1
-        - items2
-    - year: year_test2
-      items: 
-        - items1
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
